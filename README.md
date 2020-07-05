@@ -8,6 +8,9 @@ Heroku is used to host the REST API.
 https://remotemysql.com/ 
 Remote My SQL is used as a database for the application which allows us to create a remote Database and use it.
 	
+## Application Screenshots
+	#Home Screen
+	![Test Image 2](“HomeScreen.png”)
 
 
 
