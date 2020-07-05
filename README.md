@@ -10,7 +10,7 @@ Remote My SQL is used as a database for the application which allows us to creat
 	
 ## Application Screenshots
 	#Home Screen
-	![Home Screen](https://github.com/bigb0ss/Insurence-Dashboard/blob/master/Application%20Screenshots/HomeScreen.PNG?raw=true)
+	![Home Screen](Application Screenshots/HomeScreen.PNG?raw=true)
 
 
 
