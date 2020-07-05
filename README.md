@@ -9,6 +9,13 @@ https://remotemysql.com/
 Remote My SQL is used as a database for the application which allows us to create a remote Database and use it.
 
 
+## Application Screenshots
+
+	# Main Screen
+	
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
