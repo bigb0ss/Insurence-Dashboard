@@ -9,9 +9,8 @@ https://remotemysql.com/
 Remote My SQL is used as a database for the application which allows us to create a remote Database and use it.
 	
 ## Application Screenshots
-The Application Screenshots are available under "Application Screenshots" Directory
-![Home Screen](Application Screenshots/HomeScreen.PNG?raw=true)
 
+The Application Screenshots are available under "Application Screenshots" Directory
 
 
 ## Getting Started
