@@ -1,6 +1,13 @@
-# dashboard
+# Insurence Management Dashboard
+It is a Flutter Web Project
+Developed for a Client with Awesome UI components offered by Flutter Web
 
-A new Flutter project.
+The Database connection is established using REST API. 
+Heroku is used to host the REST API.
+
+https://remotemysql.com/ 
+Remote My SQL is used as a database for the application which allows us to create a remote Database and use it.
+
 
 ## Getting Started
 
